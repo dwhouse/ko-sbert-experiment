@@ -43,7 +43,7 @@ The following table summarizes the test scores for each experiment. Performance 
 | **STS → NLI**    | 0.838             | 0.849             |
 | **NLI → STS**    | 0.849             | 0.855             |
 
-![Experiment Results](images/experiment_results.png)
+![Experiment Results](images/experiment result.png)
 
 ### Analysis
 
