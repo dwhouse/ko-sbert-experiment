@@ -60,12 +60,12 @@ The results indicate that the **NLI → STS** approach achieves the highest perf
 │   ├── kosbert_experiment_3_sts_to_nli.ipynb
 │   ├── kosbert_experiment_4_nli_to_sts.ipynb
 ├── README.md
-├── outputs/
+├── output/
 │   ├── nli-to-sts-2025-01-17/
 │   ├── nli-only-klue-roberta-base-01-17/
 │   ├── sts-to-nli-01-17/
 │   ├── sts-only-klue-roberta-base-01-17/
-├── data/
+├── kor-nlu-datasets-master/
 │   ├── KorNLI/
 │   └── KorSTS/
 ├── images/
