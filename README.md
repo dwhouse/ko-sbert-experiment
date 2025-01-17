@@ -74,6 +74,7 @@ The results indicate that the **NLI → STS** approach achieves the highest perf
 Please cite the following works if you use this repository or its results:
 
 - **Sentence-BERT**: Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. [arXiv:1908.10084](https://arxiv.org/abs/1908.10084)
+  
   ```
   @inproceedings{reimers-2019-sentence-bert,
     title = "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
@@ -86,6 +87,7 @@ Please cite the following works if you use this repository or its results:
    }
    ```
 - **KorNLI and KorSTS Datasets**: [Kakao Brain](https://github.com/kakaobrain/KorNLUDatasets)
+  
   ```
   @article{ham2020kornli,
   title={KorNLI and KorSTS: New Benchmark Datasets for Korean Natural Language Understanding},
@@ -95,6 +97,7 @@ Please cite the following works if you use this repository or its results:
   }
   ```
 - **Base Model**: [KLUE RoBERTa-base](https://huggingface.co/klue/roberta-base)
+  
   ```
   @misc{park2021klue,
       title={KLUE: Korean Language Understanding Evaluation},
@@ -103,5 +106,5 @@ Please cite the following works if you use this repository or its results:
       eprint={2105.09680},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
-}
-```
+   }
+   ```
