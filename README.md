@@ -43,6 +43,8 @@ The following table summarizes the test scores for each experiment. Performance 
 | **STS → NLI**    | 0.838             | 0.849             |
 | **NLI → STS**    | 0.849             | 0.855             |
 
+![Experiment Results](images/experiment_results.png)
+
 ### Analysis
 
 The results indicate that the **NLI → STS** approach achieves the highest performance, as suggested in the original Sentence-BERT paper. This can be attributed to the fact that NLI tasks involve diverse and nuanced relationships between sentence pairs, which may better prepare the model for capturing semantic similarity during the STS task.
@@ -66,6 +68,8 @@ The results indicate that the **NLI → STS** approach achieves the highest perf
 ├── data/
 │   ├── KorNLI/
 │   └── KorSTS/
+├── images/
+│   └── experiment_results.png
 
 ```
 
